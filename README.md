@@ -35,15 +35,18 @@ $ python main.py
 ### Feature
 
 ex) monty hall simulation
+
 - nums of door(3 ~ 100)
 - execution(100 ~ 100000)
 - show result
 
 ex) banking app
+
 - user
 - account
 - loan
-- card
+- card 
 
+$$F_n=\dfrac{\left(\dfrac{1+\sqrt{5}}{2}\right)^n-\left(\dfrac{1-\sqrt{5}}{2}\right)^n}{\sqrt{5}}$$
 
 Repository to practice branch
